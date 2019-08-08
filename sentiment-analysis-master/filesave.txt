@@ -1,0 +1,10 @@
+Admin,text :Hello :3
+Cus,text :I want to the pizza
+Admin,text :You want sea or tomato
+Cus,text :I enjoy tomato 
+Cus,text :I don't like sea food :'(
+Admin,text :Their price is 100
+Admin,text :sale 10%
+Cus,text :It is expensive
+Admin,text :Bye
+Cus,text :Bye Ad
